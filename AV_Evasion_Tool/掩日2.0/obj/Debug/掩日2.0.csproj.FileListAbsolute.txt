@@ -1,0 +1,10 @@
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\bin\Debug\掩日 2.0 - Advanced AV Evasion Tool For Red Team.exe
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\bin\Debug\掩日 2.0 - Advanced AV Evasion Tool For Red Team.pdb
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2.0.csproj.AssemblyReference.cache
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2._0.AboutBox1.resources
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2._0.Form1.resources
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2._0.Properties.Resources.resources
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2.0.csproj.GenerateResource.cache
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日2.0.csproj.CoreCompileInputs.cache
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日 2.0 - Advanced AV Evasion Tool For Red Team.exe
+D:\免杀\掩日\AV_Evasion_Tool\掩日2.0\obj\Debug\掩日 2.0 - Advanced AV Evasion Tool For Red Team.pdb
